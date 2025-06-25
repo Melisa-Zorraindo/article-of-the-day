@@ -38,7 +38,7 @@ Click the Run button in your IDE from the main application class.
 Alternatively, if you've set the api key in your terminal:
 
 ```sh
-mvn clean install -DskipTests
+mvn clean install
 mvn spring-boot:run
 ```
 
