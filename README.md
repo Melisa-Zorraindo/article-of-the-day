@@ -33,12 +33,15 @@ export NYT_API_KEY=your-nyt-api-key
 
 ### Build and run
 
+Click the Run button in your IDE from the main application class.
+
+Alternatively, if you've set the api key in your terminal:
+
 ```sh
 mvn clean install -DskipTests
 mvn spring-boot:run
 ```
 
-Or, you can click the Run button in your IDE from the main application class.
 
 ### Usage
 
